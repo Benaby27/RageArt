@@ -1,7 +1,8 @@
-1. # RageArt
-2.
-3. My name is Abigail
-4. 
-5. I'm an aspiring Front end web developer
-6. I am an intern at HNGi7
+# RageArt
+
+ My name is Abigail, a singer, portrait artist, entrepreneur and journalist
+
+ I'm an aspiring Front end web developer
+
+ An intern at HNGi7
 
